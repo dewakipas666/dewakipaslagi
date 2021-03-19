@@ -1,0 +1,11 @@
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/bin/Debug/netcoreapp2.1/method.deps.json
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/bin/Debug/netcoreapp2.1/method.runtimeconfig.json
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/bin/Debug/netcoreapp2.1/method.runtimeconfig.dev.json
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/bin/Debug/netcoreapp2.1/method.dll
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/bin/Debug/netcoreapp2.1/method.pdb
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/Debug/netcoreapp2.1/method.csprojAssemblyReference.cache
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/Debug/netcoreapp2.1/method.csproj.CoreCompileInputs.cache
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/Debug/netcoreapp2.1/method.AssemblyInfoInputs.cache
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/Debug/netcoreapp2.1/method.AssemblyInfo.cs
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/Debug/netcoreapp2.1/method.dll
+/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/Debug/netcoreapp2.1/method.pdb

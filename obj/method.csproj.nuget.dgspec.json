@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/method.csproj": {}
+  },
+  "projects": {
+    "/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/method.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/method.csproj",
+        "projectName": "method",
+        "projectPath": "/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/method.csproj",
+        "packagesPath": "/home/adefebrian/.nuget/packages/",
+        "outputPath": "/home/adefebrian/Documents/Kuliah/Semester II/Pemrograman/tugas3/method/method/method/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/adefebrian/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
